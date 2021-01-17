@@ -39,7 +39,7 @@ ___
 
 [W3School](http://www.w3school.com)
 
-[W3School](http://www.w3school.com "W3School icin mesaj yazmis olduk")
+[W3School](http://www.w3school.com "A message is writed for W3School.")
 
 <!-- * UL -->
 - Item 1
